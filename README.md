@@ -12,7 +12,7 @@ Soundscape is a friends-first social music concept built around one daily song a
 - Lightweight reactions and a private saved-song library
 - Low-pressure soundbites with optional feelings
 - Emotion playlists, community charts, and “spellbook” POV mixes
-- Simulated Apple Music and Spotify export flows
+- Outbound Apple Music or Spotify song links, selected in Settings
 - A personal archive of songs and thoughts
 
 ## Native prototypes
@@ -30,9 +30,10 @@ The application source is maintained in a separate private repository. This publ
 | --- | --- | --- |
 | ![Home](./assets/01-home.png) | ![Create chooser](./assets/02-create-chooser.png) | ![New song](./assets/03-new-song.png) |
 
-| Soundbite | Discover | Playlist export | Profile |
+| Soundbite | Discover | Playlist concept | Profile |
 | --- | --- | --- | --- |
-| ![New soundbite](./assets/04-new-soundbite.png) | ![Search and playlists](./assets/05-search-playlists.png) | ![Playlist export](./assets/06-playlist-export.png) | ![Profile](./assets/07-profile.png) |
+| ![New soundbite](./assets/04-new-soundbite.png) | ![Search and playlists](./assets/05-search-playlists.png) | ![Playlist detail concept](./assets/06-playlist-export.png) | ![Profile](./assets/07-profile.png) |
+
+The current prototype does not play, preview, or copy music. Song actions leave Soundscape and open the user’s preferred music service.
 
 All names, profiles, posts, and activity shown here are fictional demo content.
-
